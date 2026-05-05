@@ -18,4 +18,4 @@ jobs:
         uses: docker/build-push-action@v5 
         with: 
           push: true 
-          tags: bombascap-blip/express-app:latest 
+          tags: bombascap-blip/express-ap:latest 
